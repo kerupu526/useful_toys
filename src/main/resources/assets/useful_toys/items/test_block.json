@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "useful_toys:block/test_block",
+    "tints": [
+      {
+        "type": "minecraft:constant", "value": 4159204
+      }
+    ]
+  }
+}

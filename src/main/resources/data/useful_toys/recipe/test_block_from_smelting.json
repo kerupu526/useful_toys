@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 400,
+  "experience": 40.0,
+  "ingredient": "minecraft:dirt",
+  "result": {
+    "id": "useful_toys:test_block"
+  }
+}

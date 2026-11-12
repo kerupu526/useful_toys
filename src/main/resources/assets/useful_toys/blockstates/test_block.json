@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "useful_toys:block/test_block"
+    }
+  }
+}
